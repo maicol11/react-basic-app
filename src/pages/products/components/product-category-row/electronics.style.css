@@ -1,0 +1,9 @@
+.electronics-container {
+    width: 100%;
+    border: 1px solid turquoise;
+    text-align: left;
+    margin-top: 3px;
+}
+.electronics-container strong {
+    margin-left: 5px;
+}

@@ -1,0 +1,22 @@
+.sporting-goods-product {
+    width: 100%;
+    border: 1px solid red;
+    text-align: left;
+    margin-top: 3px;
+}
+.sporting-goods-product span {
+    font-weight: normal;
+}
+.item {
+    margin-left: 5px;
+}
+.price {
+    margin-left: 18px;
+}
+.basketball-item {
+    color: red;
+    font-weight: 600 !important;
+}
+.basketball-price {
+    margin-left: 5px;
+}

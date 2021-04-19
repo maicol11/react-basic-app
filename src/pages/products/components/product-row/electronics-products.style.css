@@ -1,0 +1,25 @@
+.electronics-product {
+    width: 100%;
+    border: 1px solid red;
+    text-align: left;
+    margin-top: 3px;
+}
+.electronics-product span {
+    font-weight: normal;
+}
+.item {
+    margin-left: 5px;
+}
+.price {
+    margin-left: 0px;
+}
+.iphone-item {
+    color: red;
+    font-weight: 600 !important;
+}
+.iphone-price {
+    margin-left: 18px;
+}
+.nexus-price {
+    margin-left: 24px;
+}
